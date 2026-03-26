@@ -1,0 +1,64 @@
+TEAMS,DIFF,WIN,ROUND,PCTHIGH,PCTLOW
+Texas-UNCA,-15,1,1,0.786,0.484
+LSU-Purdue,-1,0,1,0.677,0.643
+UConn-BYU,-7,1,1,0.7,0.742
+Stanford-San Diego,-9,1,1,0.742,0.621
+Maryland-UNCW,-5,1,1,0.679,0.8
+Xavier-Troy State,-11,1,1,0.833,0.839
+Michigan State-Colorado,-3,1,1,0.613,0.645
+Florida-Sam Houston,-13,1,1,0.774,0.793
+Oklahoma-SC State,-15,1,1,0.8,0.667
+California-UNC State,-1,1,1,0.724,0.6
+Miss. State-Butler,-7,0,1,0.7,0.833
+Louisville-AustinPeay,-9,1,1,0.8,0.767
+Oklahoma State-Penn,-5,1,1,0.7,0.815
+Syracuse-Manhattan,-11,1,1,0.828,0.793
+St. Joseph's-Auburn,-3,0,1,0.793,0.656
+Wake Forest-E. Tenn. St.,-13,1,1,0.828,0.667
+Arizona-Vermont,-15,1,1,0.893,0.656
+Cincinnati-Gonzaga,-1,0,1,0.607,0.742
+Notre Dame-Wisconsin-Mil.,-7,1,1,0.688,0.774
+Illinois-W. Kentucky,-9,1,1,0.8,0.75
+Creighton-Central Michigan,-5,0,1,0.879,0.8
+Duke-Colorado State,-11,1,1,0.8,0.594
+Memphis-Arizona State,-3,0,1,0.793,0.633
+Kansas-Utah State,-13,1,1,0.781,0.75
+Kentucky-IUPUI,-15,1,1,0.906,0.606
+Oregon-Utah,-1,0,1,0.719,0.774
+Wisconsin-Weber State,-7,1,1,0.759,0.839
+Dayton-Tulsa,-9,0,1,0.828,0.71
+Missouri-S. Illinois,-5,1,1,0.677,0.8
+Marquette-Holy Cross,-11,1,1,0.82,0.867
+Indiana-Alabama,-3,1,1,0.625,0.607
+Pittsburgh-Wagner,-13,1,1,0.867,0.677
+Texas-Purdue,-8,1,2,0.786,0.643
+Uconn-Stanford,-1,0,2,0.742,0.7
+Maryland-Xavier,-3,0,2,0.833,0.679
+Michigan State-Florida,-5,0,2,0.774,0.613
+Oklahoma-California,-7,1,2,0.8,0.724
+Butler-Louisville,-8,0,2,0.8,0.833
+Oklahome State-Syracuse,-3,1,2,0.828,0.7
+Auburn-Wake Forest,-8,0,2,0.828,0.656
+Arizona-Gonzaga,-8,1,2,0.893,0.742
+Notre Dame-Illinois,-1,0,2,0.8,0.688
+Central Michigan-Duke,-8,1,2,0.8,0.8
+Arizona State-Kansas,-8,1,2,0.781,0.633
+Kentucky-Utah,-8,1,2,0.906,0.774
+Wisconsin-Tulsa,-8,1,2,0.759,0.71
+Missouri-Marquette,-3,1,2,0.82,0.677
+Indiana-Pittsburgh,-5,1,2,0.867,0.625
+Texas-Uconn,-4,1,3,0.786,0.7
+Maryland-Michigan State,-1,0,3,0.679,0.613
+Oklahoma-Butler,-11,1,3,0.8,0.833
+Syracuse-Auburn,-7,1,3,0.828,0.656
+Arizona-Notre Dame,-4,1,3,0.893,0.688
+Duke-Kansas,-1,1,3,0.781,0.8
+Kentucky-Wisconsin,-4,1,3,0.906,0.759
+Marquette-Pittsburgh,-1,0,3,0.867,0.82
+Texas-Michigan State,-6,1,4,0.786,0.613
+Oklahoma-Syracuse,-2,0,4,0.8,0.828
+Arizona-Kansas,-1,0,4,0.893,0.781
+Kentucky-Marquette,-2,0,4,0.906,0.82
+Texas-Syracuse,-2,0,5,0.786,0.828
+Kansas-Marquette,-1,1,5,0.781,0.82
+Syracuse-Kansas,-1,0,6,0.781,0.828
